@@ -1,0 +1,22 @@
+#classification-btn {
+    margin-left: 10px;
+}
+
+#classified-tokens-container {
+    margin-top: 10px;
+    white-space: nowrap;
+    overflow: auto;
+    height: 50px;
+}
+
+#main-panel {
+    width: 500px;
+    height: 170px;
+    position: absolute;
+    left: calc(50% - 250px);
+    top: 100px
+}
+
+#sentence-input {
+    width: 380px
+}
