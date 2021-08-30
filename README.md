@@ -1,6 +1,6 @@
 # Example Of Fine-Tuning BERT For Named-Entity Recognition Task And Preparing For Cloud Deployment Using Flask, React, And Docker
 
-#### This repository contains helpful code snippets and configuration for fine-tuning BERT for the downstream task, wrapping model using Flask, and deploying as a Docker container
+#### This repository contains useful code snippets and configuration examples for fine-tuning BERT for the NER downstream task, wrapping model using Flask, and deploying as a Docker container
 
 <img src="https://github.com/dredwardhyde/bert-ner-fine-tuning-cloud-deployment/blob/main/result.png" width="862"/>  
 
